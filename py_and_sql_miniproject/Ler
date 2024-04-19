@@ -1,0 +1,12 @@
+Exercicios - Curso:
+####################################################################################################################
+Use o exemplo em anexo para criar um projecto base Python de criação atualização de uma mini base de dados Mysql.
+Confira os componentes Python que precisa ter para acesso à base de dados Mysql, e ative o seu servidor MySql local.
+
+Cria uma conjunto de testes simples para:
+Criar um registo normal e verificar q os dados desse registo são os esperados.
+Criar um registo com um id duplicado.
+Apagar um registo existente.
+Apagar um registo inexistente.
+Inserir 10 registos.
+####################################################################################################################
